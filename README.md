@@ -1,6 +1,6 @@
-# Simple Go Binary Decission Tree generator
+# Simple Go Decission Tree generator
 
-Simple Binary Decission Tree generator using ID3 algoritm.
+Simple Decission Tree generator using ID3 algoritm.
 
 
 * Applies ID3 algorithm to generate tree
